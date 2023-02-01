@@ -23,8 +23,12 @@ $$EOA = \dfrac{Q_{RMS}}{51.6\sqrt{\dfrac{\Delta P}{\rho}}},$$
 where $Q_{RMS}$ is the root mean square of the flow rate, $\Delta P$ is the mean pressure difference and $\rho$ is the density of blood. Was calculated with data from source 2. Calculation of the root mean square of the flow rate:
 $$q_{v_{RMS}} = \sqrt{\dfrac{\int_{t_1}^{t_2}q_v^2(t)dt}{t_2 - t_1}}$$
 
-<img src="./images/main_plot.svg" title="Main characteristics" width="600"/>
 
-<div style="text-align: center;">
-<img src="./images/main_plot.svg" title="Main characteristics" width="600"/>
-</div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="./images/main_plot.svg"
+    alt="Our logo">
+</img>
