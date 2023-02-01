@@ -5,7 +5,7 @@
 $$\Delta P_{mean} = \dfrac{1}{T_{systole}} \int_{T_{systole}} (P_{vent} - P_{aortic}) dt,$$
 where $P_{vent}$ and $P_{aortic}$ are the ventricular and aortic pressures, respectively.
 
-The mean pressure difference is calculated by integrating the pressure difference over the duration of systole. Was calculated with data from source 1. In `Python` realisation of the integral is basically Rimman's sum, since $dt \rightarrow 0$ RS $\equiv$ to given $\Delta P_{mean}$.
+The mean pressure difference is calculated by integrating the pressure difference over the duration of systole. Was calculated with data from source 1. In ``Python`` realisation of the integral is basically Rimman's sum, since $dt \rightarrow 0$ RS $\equiv$ to given $\Delta P_{mean}$.
 `df['d_P'] = (df.query('flow > 0')['p_vent'] - df.query('flow > 0')['p_aort']) * df.query('flow > 0 and time < 0.26')['timestep']`,
 where difference in the parenthesis equivalent to $(P_{vent} - P_{aortic})$ and multiplication is given by `df.query('flow > 0 and time < 0.26')['timestep']`.
 `d_P = df.query('d_P > 0')['d_P'].sum() / (df.query('flow > 0')['timestep'].sum())`,
