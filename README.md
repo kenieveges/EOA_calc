@@ -1,9 +1,9 @@
 ## Installation of the conda
 1. Go to the [anaconda web-site](https://www.anaconda.com/products/distribution) and download distribution.
 2. After installation update anaconda navigator, if needed.
-3. Open *enviroments* tab and create new enviroment.<img style="display: block; margin-left: auto;margin-right: auto;width: 66%;"src="./images/step1.jpg"></img>
-4. Name it, e.t. *For_EOA*. Change Python version, if necessary.<img style="display: block; margin-left: auto;margin-right: auto;width: 66%;"src="./images/step2.jpg"></img>
-5. Install VS Code from home panel or [download it](https://code.visualstudio.com).<img style="display: block;  margin-left: auto; margin-right: auto; width: 66%;" src="./images/step3.jpg"> </img>
+3. Open *enviroments* tab and create new enviroment.<img style="display: block; margin-left: auto;margin-right: auto;width: 100%;"src="./images/step1.jpg"></img>
+4. Name it, e.t. *For_EOA*. Change Python version, if necessary.<img style="display: block; margin-left: auto;margin-right: auto; width: 100%;"src="./images/step2.jpg"></img>
+5. Install VS Code from home panel or [download it](https://code.visualstudio.com).<img style="display: block;  margin-left: auto; margin-right: auto; width: 100%;" src="./images/step3.jpg"> </img>
 ---
 
 ## Calculation of the effective orifice area (EOA).
