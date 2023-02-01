@@ -1,3 +1,16 @@
+## Installation of the conda
+1. Go to the [anaconda web-site](https://www.anaconda.com/products/distribution) and download distribution.
+2. After installation update anaconda navigator, if needed.
+3. Open *enviroments* tab and create new enviroment.
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 66%;"
+    src="./images/step1.jpg">
+</img>
+4. Name it, e.t. **For_EOA**.
+
 ## Calculation of the effective orifice area (EOA).
 #### Data was given from two sources:
 1. Spreadsheet cantaining volumetric flow in/out in $m^3/s$, pressure in/out in $Pa$ and corresponding timesteps in seconds.
