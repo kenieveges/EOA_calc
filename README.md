@@ -28,7 +28,6 @@ $$q_{v_{RMS}} = \sqrt{\dfrac{\int_{t_1}^{t_2}q_v^2(t)dt}{t_2 - t_1}}$$
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;"
-    src="./images/main_plot.svg"
-    alt="Our logo">
+           width: 100%;"
+    src="./images/main_plot.svg">
 </img>
