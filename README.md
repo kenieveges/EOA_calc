@@ -22,3 +22,5 @@ Calculation of the effective orifice area:
 $$EOA = \dfrac{Q_{RMS}}{51.6\sqrt{\dfrac{\Delta P}{\rho}}},$$
 where $Q_{RMS}$ is the root mean square of the flow rate, $\Delta P$ is the mean pressure difference and $\rho$ is the density of blood. Was calculated with data from source 2. Calculation of the root mean square of the flow rate:
 $$q_{v_{RMS}} = \sqrt{\dfrac{\int_{t_1}^{t_2}q_v^2(t)dt}{t_2 - t_1}}$$
+
+<img src="./images/main_plot.svg" title="Main characteristics" width="600"/>
