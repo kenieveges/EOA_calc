@@ -17,7 +17,7 @@
            width: 66%;"
     src="./images/step2.jpg">
 </img>
-5. Install VS Code from home panel or [download it](https://code.visualstudio.com/).
+5. Install VS Code from home panel or [download it](https://code.visualstudio.com).
 <img
     style="display: block; 
            margin-left: auto;
