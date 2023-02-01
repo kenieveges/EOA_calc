@@ -24,3 +24,7 @@ where $Q_{RMS}$ is the root mean square of the flow rate, $\Delta P$ is the mean
 $$q_{v_{RMS}} = \sqrt{\dfrac{\int_{t_1}^{t_2}q_v^2(t)dt}{t_2 - t_1}}$$
 
 <img src="./images/main_plot.svg" title="Main characteristics" width="600"/>
+
+<div style="text-align: center;">
+<img src="./images/main_plot.svg" title="Main characteristics" width="600"/>
+</div>
