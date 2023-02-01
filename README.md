@@ -9,7 +9,24 @@
            width: 66%;"
     src="./images/step1.jpg">
 </img>
-4. Name it, e.t. *For_EOA*.
+4. Name it, e.t. *For_EOA*. Change Python version, if necessary.
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 66%;"
+    src="./images/step2.jpg">
+</img>
+5. Install VS Code from home panel or [download it](https://code.visualstudio.com/).
+<img
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 66%;"
+    src="./images/step3.jpg">
+</img>
+
+---
 
 ## Calculation of the effective orifice area (EOA).
 #### Data was given from two sources:
