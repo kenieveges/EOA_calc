@@ -9,7 +9,7 @@
            width: 66%;"
     src="./images/step1.jpg">
 </img>
-4. Name it, e.t. **For_EOA**.
+4. Name it, e.t. *For_EOA*.
 
 ## Calculation of the effective orifice area (EOA).
 #### Data was given from two sources:
